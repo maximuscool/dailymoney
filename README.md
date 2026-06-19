@@ -11,3 +11,4 @@ Just clone this repo and install streamlit, pandas, plotly.express.
 ### Functionality I didn't add yet
 - Editing database inside the app
 - Adding custom categories inside the app
+- Possibly alternative ways to visualize spending
